@@ -15,6 +15,7 @@ Library: NumPy
 Concepts: NumPy, Object-Oriented Programming (OOP), arrays, mathematical operations and statistics
 Project Objective
 
+repositories link : 
 
 The NumPy Analyzer is a menu-driven program that helps users create and manage NumPy arrays. It performs common array operations, mathematical calculations, searching, sorting, filtering and statistical analysis using a DataAnalytics class.
 Features
