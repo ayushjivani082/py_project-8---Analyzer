@@ -19,7 +19,7 @@ Project Objective
 repositories link : https://github.com/ayushjivani082/py_project-8---Analyzer/blob/d8ee0b79a742b0391801320aa27c80511d5fb151/8.Analyzer/8.Numpy%20Analyzer.ipynb
 
 
-video link : 
+video link : https://drive.google.com/file/d/10B1TKdCqFtjWJnI-eS1BT-DS5X4mGwnN/view?usp=drive_link
 
 
 The NumPy Analyzer is a menu-driven program that helps users create and manage NumPy arrays. It performs common array operations, mathematical calculations, searching, sorting, filtering and statistical analysis using a DataAnalytics class.
